@@ -1,4 +1,4 @@
-#include<bits.stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 int digitFrequencyDifference(long long n, int a, int b) {
